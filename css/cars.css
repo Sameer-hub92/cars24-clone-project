@@ -12,3 +12,13 @@
     object-fit: cover;
 }
 }
+
+.liststyle{
+    list-style: none;
+    cursor: pointer;
+}
+
+.our_link{
+    text-decoration: none;
+    color: black;
+}
